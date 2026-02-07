@@ -33,6 +33,7 @@ class ToDoList:
                 print('[В процессе]' + task)
         print("")
 
+
 task_list = ToDoList()
 
 task_list.list_tasks()
